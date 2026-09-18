@@ -1,0 +1,3 @@
+# This site is a single static page with #anchor navigation only —
+# there are no client-side routes that need rewriting to index.html.
+# File kept for parity with hosts that check for it; no rules needed.
